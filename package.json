@@ -2,10 +2,9 @@
   "name": "vue-mailer",
   "version": "1.0.0",
   "description": "",
-  "main": "server/index.js",
+  "main": "app.js/index.js",
   "scripts": {
-    "start": "nodemon server",
-    "build": "nodemon server"
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
