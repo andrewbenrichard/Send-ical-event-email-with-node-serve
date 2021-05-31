@@ -4,7 +4,8 @@
   "description": "",
   "main": "server/index.js",
   "scripts": {
-    "start": "nodemon server"
+    "start": "nodemon server",
+    "build": "npm-run-all --parallel build:**"
   },
   "keywords": [],
   "author": "",
